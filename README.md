@@ -1,4 +1,4 @@
-# ProductsService
+# Products Service
 
 .NET 8 Web API for managing products
 
